@@ -67,7 +67,7 @@ All contracts are verified on [Etherscan](https://etherscan.io/):
 | Allocation | Percentage | Notes |
 |-------------|-------------|-------|
 | Presale Participants | 60% | Distributed after successful presale |
-| Dev Allocation | 1.69% | Locked & vested |
+| Dev Allocation | 1.69% | smol not greedy |
 | Treasury + Liquidity | 38.31% | For LP, burns, and future epochs |
 
 ---
